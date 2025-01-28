@@ -14,5 +14,3 @@
 3. sqlalchemy
 4. asyncio
 
-
-Мой первый +- крупный project
